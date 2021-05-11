@@ -3,7 +3,7 @@ Hadoop tutorial with MapReduce, HDFS, Spark, Flink, Hive, HBase, MongoDB, Cassan
 
 ### Certifications
 
-- [Certificate](https://www.udemy.com/certificate/UC-60343870-5a7b-410d-abf6-c3f34a2e16b5/) & [Certificate](https://nlb.udemy.com/certificate/UC-d49d200c-d389-4c9d-9a63-00b7d90c46d5/)
+- [Certificate](https://www.udemy.com/certificate/UC-60343870-5a7b-410d-abf6-c3f34a2e16b5/) & [Certificate](https://udemy.com/certificate/UC-d49d200c-d389-4c9d-9a63-00b7d90c46d5/)
 
 ### Awknowledgements
 
